@@ -1,6 +1,6 @@
 # ios101-project2-wordle-starter
 # Project 2 - *Wordle*
->>>>>>> 49c677c (Add Week 2 updates: settings features, updated README)
+
 
 Submitted by: **Yu-Shan Cheng**
 
@@ -10,7 +10,7 @@ Submitted by: **Yu-Shan Cheng**
 Time spent: **3** hours spent in total
 =======
 Time spent: **2** hours spent in total
->>>>>>> 49c677c (Add Week 2 updates: settings features, updated README)
+
 
 ## Required Features
 
