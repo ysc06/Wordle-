@@ -54,4 +54,3 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://youtube.com/shorts/yuVbY5IKflE?feature=share) .
 
->>>>>>> 49c677c (Add Week 2 updates: settings features, updated README)
