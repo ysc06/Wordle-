@@ -15,11 +15,14 @@ extension ViewController {
       .font: UIFont.systemFont(ofSize: 28.0),
       .foregroundColor: UIColor.white
     ]
+<<<<<<< HEAD
     navigationController!.navigationItem.rightBarButtonItem = UIBarButtonItem(
       image: UIImage(systemName: "bell"),
       style: .plain,
       target: nil,
       action: nil
     )
+=======
+>>>>>>> 21c2b03 (Add Part 2 features (e.g., apply settings to board, theme, alien mode))
   }
 }

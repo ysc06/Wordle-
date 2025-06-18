@@ -26,3 +26,6 @@ The following **additional** features are implemented:
 - [X] List anything else that you can get done to improve the app functionality!
 
 
+=======
+# ios101-project2-wordle-starter
+>>>>>>> 21c2b03 (Add Part 2 features (e.g., apply settings to board, theme, alien mode))
