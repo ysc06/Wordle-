@@ -1,5 +1,4 @@
-# ios101-project2-wordle-starter
-# Project 2 - *Wordle*
+# ios101-project2-wordle
 
 
 Submitted by: **Yu-Shan Cheng**
@@ -7,9 +6,9 @@ Submitted by: **Yu-Shan Cheng**
 **Wordle** is an app that lets users guess a hidden five-letter word in six tries.
 
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 =======
-Time spent: **2** hours spent in total
+
 
 
 ## Required Features
@@ -33,7 +32,7 @@ The following **additional** features are implemented:
 
 
 # ios101-project2-wordle-starter
->>>>>>> 21c2b03 (Add Part 2 features (e.g., apply settings to board, theme, alien mode))
+
 
 - [X] User can change the number of letters per row (the length of the goal word)
 - [X] User can change the numbers of rows on the board (how many guesses allowed)
